@@ -1,0 +1,232 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "W4ybV5jZMnGTZfosYiky2qAgtlk",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 159,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NOmwfhDXSLGI8IxvrMh1C2_sV9Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lsg7kCe4FTI"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-03T21:15:49Z",
+        "channelId": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "title": "Psychologist REVEALS How To Develop MASSIVE CONFIDENCE! | Amy Cuddy & Lewis Howes",
+        "description": "https://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\nhttps://lewishowes.com/greatnessdelivered - Sign up for my FREE newsletter & get a dose of inspiration from our world-class guests, learn how to improve your life!\n\nDr. Amy Cuddy is a social psychologist, bestselling author, award-winning Harvard lecturer, and expert on the behavioral science of power, presence, and prejudice.\n\nCuddy earned her Ph.D. from Princeton University in 2005 and was a professor at Harvard Business School from 2008 to 2017, Northwestern University’s Kellogg School of Management from 2006 to 2008, and Rutgers University from 2005 to 2006. She continues to teach at Harvard Business School in executive education.\n\n—\n\nIf you’re ready to learn how to harness your full personal power to reach your goals in business, life, and everything in between, then this episode might be a game changer for you! During our conversation, Amy and I also touch on how to stop being afraid of chasing your dreams, the ripple effects that overcoming trauma can have on your life, and so much more. And now, please join me for Episode 1,198 of The School of Greatness.\nYou can follow me at:\nWebsite: http://lewishowes.com/\nFacebook: https://www.facebook.com/lewishowes/\nTwitter: https://twitter.com/LewisHowes\nInstagram: https://www.instagram.com/lewishowes/\nTiktok: https://www.tiktok.com/@lewis\nLinkedin: https://www.linkedin.com/in/lewishowes/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lsg7kCe4FTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lsg7kCe4FTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lsg7kCe4FTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lsg7kCe4FTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lsg7kCe4FTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lewis Howes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-03T21:15:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PD4KFXgWIhuLVtB0zeN-3l3WM2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A6Prtgjw6uA"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-24T05:00:38Z",
+        "channelId": "UCPvLJ7YsMqPWkHEfv4ftFZQ",
+        "title": "How To Become A Master In The Art of Public Speaking (Part 2 of 2) | Eric Edmeades",
+        "description": "Do you have a fear of public speaking? Or perhaps you just want to improve on your public speaking abilities.Well, in this talk from Mindvalley University in Tallinn 2018, Eric Edmeades, gives us some great tips on how you can master the art of public speaking.\n\nPart 1 here 👉https://youtu.be/dHAbmoFHqgA\n\nGet transformational mentoring with the world’s best teachers storytellers and public speakers. Sign up for Mindvalley Mentoring and get access 👉 https://go.mindvalley.com/LquF0-gJ\n\n#Subscribe #PublicSpeaking #PublicSpeakingTips",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mindvalley Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-24T05:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OlwU9Qsf68b80WFvWm87aQ88DhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zIwLWfaAg-8"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-01T15:15:02Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "Elon Musk: The future we're building -- and boring | TED",
+        "description": "Elon Musk discusses his new project digging tunnels under LA, the latest from Tesla and SpaceX and his motivation for building a future on Mars in conversation with TED's Head Curator, Chris Anderson.\n\nVisit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nBecome a TED Member: http://ted.com/membership\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zIwLWfaAg-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zIwLWfaAg-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zIwLWfaAg-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zIwLWfaAg-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zIwLWfaAg-8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-01T15:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CBeqNXZixhR1z9ZEw0xosG7zA00",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ENIwAZZw8J0"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-19T19:19:44Z",
+        "channelId": "UCHbq_l1qnuomfJCYQTsWf_Q",
+        "title": "Simon Sinek's Life Advice Will Change Your Future (MUST WATCH)",
+        "description": "Subscribe for Motivational Videos Every Weekday, Helping You Get Through The Week! http://bit.ly/MotivationVideos\n\nIn Partnership with Simon Sinek, go support him!\nhttps://www.youtube.com/user/SimonSinek\nhttps://www.facebook.com/simonsinek\nhttps://twitter.com/simonsinek\nhttps://www.instagram.com/simonsaysinspire/\n\nBuy His Best Selling Book here:\nhttps://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/\n\nFollow us on:\nInstagram: http://bit.ly/2rhGNMY\nFacebook: http://bit.ly/2r85DC3\nTwitter: http://bit.ly/2qir5TO\n\n----------------------------------------­­-------------------------\n\nFootage licensed through Videoblocks and Videohive.\n\n----------------------------------------­­-------------------------\n\nHelp us caption & translate this video!\nhttp://bit.ly/Translate4Motivation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ENIwAZZw8J0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ENIwAZZw8J0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ENIwAZZw8J0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ENIwAZZw8J0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ENIwAZZw8J0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Motivation Madness",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-19T19:19:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s5GoSYhaPViON-6jW1OJB9Pf1vI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ATo9sYax-AQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-31T16:19:51Z",
+        "channelId": "UCuIFW5miIr0y_-SKk3ex5yQ",
+        "title": "Presence: Bringing Your Boldest Self to Your Biggest Challenges | Dr. Amy Cuddy | IDEAcademy 2018",
+        "description": "Some of life’s biggest hurdles call for moments of sincerity and control. Too often, we approach these high-pressure moments with fear and execute with anxiety. Based on her best-selling book Presence: Bringing Your Boldest Self to Your Biggest Challenges, Harvard Business School professor and social psychologist Amy Cuddy shares revolutionary research and personal narratives in this impassioned, engaging, and innovative presentation. You will learn simple techniques to complete inner transformation, harness the power of presence, and perform at the highest levels of confidence.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eastman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-31T16:19:51Z"
+      }
+    }
+  ]
+}
